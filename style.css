@@ -1,12 +1,44 @@
 body{
-    color: black;
-    background-color: green;
+    /* color: black; */
+    background-color: #9400FF;
+    /* padding: 0%; */
+}
+*{
+    margin: 0;
+    padding: 5;
+    box-sizing: border-box;
 }
 header{
     text-align: center;
-    background-color: aquamarine;
-    color: #000;
+    background-color: #9400FF;
+    color: #AED2FF;
     padding: 10px;
     margin: 0px;
-    border: solid green;
+    border: light #9400FF;
+    font-family: 'Quicksand', sans-serif;
+}
+p{
+    color: #27005D;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    border: 5px;
+    border-color: #9400FF;
+
+}
+#components{
+    color: #27005D;
+    background-color: #AED2FF;
+    font-family: 'Quicksand', sans-serif;
+    padding: 15px;
+}
+#procedure{
+    color: #27005D;
+    background-color: #AED2FF;
+    font-family: 'Quicksand', sans-serif;
+    padding: 15px;
 }
